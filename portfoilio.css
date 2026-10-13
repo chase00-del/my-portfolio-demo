@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.portfoilio {
+    background-color: orange;
+    padding: 5px;
+    border-radius: 6px;
+    color: black;
+}
+.Name {
+    background-color: white;
+    padding: 30px;
+    margin: 0%;
+    border-radius: 6px;
+}
+#hero {
+    background-color: orange;
+    padding: 0;
+}
+#about {
+    background-color: orange;
+    margin: 0%;
+    color: black;
+}
